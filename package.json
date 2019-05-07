@@ -17,6 +17,7 @@
     "eslint-plugin-standard": "^4.0.0"
   },
   "dependencies": {
-    "js-sha1": "^0.6.0"
+    "js-sha1": "^0.6.0",
+    "request": "^2.88.0"
   }
 }
